@@ -1,0 +1,8 @@
+on boot
+    chown system system /sys/devices/platform/14013000.dsi/hbm
+    chown system system /sys/devices/platform/common_node/hbmstate
+
+service vendor.livedisplay-hal /vendor/bin/hw/vendor.lineage.livedisplay-service.hormoz
+    class late_start
+    user system
+    group system

@@ -1,0 +1,7 @@
+{
+  "provideLibs": [
+    "libOpenCL.so",
+    "libGLES_mali.so"
+  ],
+  "requireLibs": []
+}

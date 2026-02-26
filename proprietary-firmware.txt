@@ -1,0 +1,15 @@
+# Firmware - from hormoz-user-14-UQ1A.240205.004-V5.22.2.3.BOND-release-keys
+cam_vpu1.img;AB
+cam_vpu2.img;AB
+cam_vpu3.img;AB
+dpm.img;AB
+gz.img;AB
+lk.img;AB
+mcupm.img;AB
+md1img.img;AB
+pi_img.img;AB
+preloader.img;AB
+scp.img;AB
+spmfw.img;AB
+sspm.img;AB
+tee.img;AB

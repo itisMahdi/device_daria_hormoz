@@ -1,0 +1,2 @@
+# Sensors
+genfscon sysfs /kernel/pix_manager                           u:object_r:sysfs_pix_manager:s0

@@ -1,0 +1,23 @@
+{
+  "Version": 2.0,
+  "Revision": 1,
+  "Algorithm": {
+    "type": "monitor",
+    "hotplug_timeout_sec": 20,
+    "power_budget_ac_default_mAh": 900,
+    "power_budget_usb_default_mAh": 900
+  },
+  "Sensors": [
+    {
+      "Name": "SKIN",
+      "Type": "bcl_current",
+      "TripPoints": [
+        {"Name": "SHUTDOWN", "Value": 95.0, "Type": "passive"}
+      ]
+    }
+  ],
+  "CoolingDevices": [],
+  "Stats": {
+    "record_stats": true
+  }
+}

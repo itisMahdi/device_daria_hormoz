@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "LineageOS/android_device_mediatek_sepolicy_vndr",
+    "target_path": "device/mediatek/sepolicy_vndr",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "LineageOS/android_hardware_mediatek",
+    "target_path": "hardware/mediatek",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "daria-community/vendor_daria_hormoz",
+    "target_path": "vendor/daria/hormoz",
+    "branch": "lineage-23.2"
+  }
+]
